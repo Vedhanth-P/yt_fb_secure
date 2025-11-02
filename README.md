@@ -1,3 +1,8 @@
+---
+NOTE: .exe file location : "yt_fb_secure_blackgold\dist\YTtoFBUploader.exe"
+---
+
+
 ````markdown
 # 🎥 YT → FB Secure Uploader (Black & Gold Edition)
 
